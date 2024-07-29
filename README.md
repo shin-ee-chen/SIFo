@@ -14,7 +14,6 @@ Following multiple instructions is a crucial ability for large language models (
 
 To install the dependencies:
 ```bash
-git clone https://github.com/shin-ee-chen/SIFo.git
 cd llm_inference/
 pip install -r requirements.txt
 ```
