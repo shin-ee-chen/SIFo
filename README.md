@@ -16,6 +16,7 @@ To install the dependencies:
 ```bash
 cd llm_inference/
 pip install -r requirements.txt
+python get_responses_from_vllm_models.py
 ```
 
 
