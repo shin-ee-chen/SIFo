@@ -2,7 +2,7 @@
 ![diagram](sifo_tasks.png)
 
 Code and data are described in the paper:
-> [The SIFo Benchmark: Investigating the Sequential Instruction Following Ability of Large Language Models].
+> Xinyi Chen, Baohao Liao, Jirui Qi, Panagiotis Eustratiadis, Christof Monz, Arianna Bisazza, Maarten de Rijke. [The SIFo Benchmark: Investigating the Sequential Instruction Following Ability of Large Language Models] (https://arxiv.org/abs/2406.19999).
 
 We provide the benchmark dataset and code for reproducing our results.
 
@@ -22,4 +22,4 @@ python get_responses_from_vllm_models.py
 
 
 ## Contact
-For questions, comments, or concerns, reach out to: ****
+For questions, comments, or concerns, reach out to: **x dot chen2 at uva dot nl**
